@@ -14,6 +14,12 @@
 - [Applied Machine Learning in Python](https://www.coursera.org/account/accomplishments/certificate/5J6RATZB8CFE)
 - [Applied Social Network Analysis in Python](https://www.coursera.org/account/accomplishments/certificate/5D6N3AM3YC54)
 
+## [Mathematics for Data Science Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/JLRUYV2YNM5H)
+- [Discrete Math and Analyzing Social Graphs](https://www.coursera.org/account/accomplishments/certificate/BDVXK9Z4USDW)
+- [Calculus and Optimization for Machine Learning](https://www.coursera.org/account/accomplishments/certificate/JHNXXJE52284)
+- [First Steps in Linear Algebra for Machine Learning](https://www.coursera.org/account/accomplishments/certificate/N7GJXWEQSYS4)
+- [Probability Theory, Statistics and Exploratory Data Analysis](https://www.coursera.org/account/accomplishments/certificate/9K2AWHBPK238)
+
 ## Other Data Science Courses
 - [DSE200x: Python for Data Science](https://courses.edx.org/certificates/5c9ddf2965ac4cbd9627ae436c2e1486)
 - [Foundations: Data, Data, Everywhere](https://www.coursera.org/account/accomplishments/certificate/VWTZ2LDGYGLX)
